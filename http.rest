@@ -1,0 +1,22 @@
+
+GET http://localhost:3333
+
+
+# GET http://localhost:3333/users/2
+
+
+# POST http://localhost:3333
+# Content-Type: application/json
+
+# {
+#     "id": 1,
+#     "name": "Niitsh Kumar"
+# }
+
+# POST http://localhost:3333
+# Content-Type: application/json
+
+# {
+#     "id": 1,
+#     "name": "Niitsh Kumar"
+# }
